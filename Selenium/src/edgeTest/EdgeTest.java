@@ -8,7 +8,7 @@ public class EdgeTest
     {
     	WebDriver driver = new EdgeDriver();
 
-        driver.get("https://facebook.com");
+        driver.get("https://aniwave.to/home");
 
         //driver.quit();
     }
